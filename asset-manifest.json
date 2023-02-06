@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/griesti/static/css/main.9c6a08ff.css",
+    "main.js": "/griesti/static/js/main.0f102547.js",
+    "static/media/logo.jpeg": "/griesti/static/media/logo.18d6dfc02a68854c91c6.jpeg",
+    "static/media/foto4.jpeg": "/griesti/static/media/foto4.d3ca4d3ca907d491b55c.jpeg",
+    "static/media/foto5.jpeg": "/griesti/static/media/foto5.fa0a65f398474b4f7786.jpeg",
+    "static/media/foto6.jpeg": "/griesti/static/media/foto6.f3b03dd2dd8b2ebe4439.jpeg",
+    "static/media/foto7.jpeg": "/griesti/static/media/foto7.6e46b73254c675ae5dc4.jpeg",
+    "static/media/foto1.jpeg": "/griesti/static/media/foto1.d5856f231872c16e4052.jpeg",
+    "static/media/foto2.jpeg": "/griesti/static/media/foto2.0734a56ade1889a869de.jpeg",
+    "static/media/foto3.jpeg": "/griesti/static/media/foto3.392bc1da26299ca88c14.jpeg",
+    "index.html": "/griesti/index.html",
+    "main.9c6a08ff.css.map": "/griesti/static/css/main.9c6a08ff.css.map",
+    "main.0f102547.js.map": "/griesti/static/js/main.0f102547.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c6a08ff.css",
+    "static/js/main.0f102547.js"
+  ]
+}
