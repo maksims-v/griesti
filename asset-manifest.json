@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/griesti/static/css/main.ea5f1d8a.css",
-    "main.js": "/griesti/static/js/main.c01a0ca8.js",
+    "main.js": "/griesti/static/js/main.988057f3.js",
     "static/media/1.jpg": "/griesti/static/media/1.2a73f449e3283220d1c0.jpg",
     "static/media/2.jpg": "/griesti/static/media/2.db7391fd9d86fde1ac92.jpg",
     "static/media/3.jpg": "/griesti/static/media/3.89d187d3de881770a9bc.jpg",
@@ -22,10 +22,10 @@
     "static/media/3.jpeg": "/griesti/static/media/3.11bd522255063154faf1.jpeg",
     "index.html": "/griesti/index.html",
     "main.ea5f1d8a.css.map": "/griesti/static/css/main.ea5f1d8a.css.map",
-    "main.c01a0ca8.js.map": "/griesti/static/js/main.c01a0ca8.js.map"
+    "main.988057f3.js.map": "/griesti/static/js/main.988057f3.js.map"
   },
   "entrypoints": [
     "static/css/main.ea5f1d8a.css",
-    "static/js/main.c01a0ca8.js"
+    "static/js/main.988057f3.js"
   ]
 }
